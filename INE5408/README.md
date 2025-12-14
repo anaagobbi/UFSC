@@ -1,1 +1,1 @@
-# Estruturas de Dados (INE5408)
+# Estruturas de Dados - INE5408
