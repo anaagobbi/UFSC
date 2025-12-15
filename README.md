@@ -1,2 +1,2 @@
 # UFSC
-Meu repositório acadêmico!
+Meu portfólio acadêmico!
